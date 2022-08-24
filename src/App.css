@@ -1,7 +1,10 @@
-.App {
-  text-align: center;
+.container {
   max-width: 1080px;
   margin: 20px auto;
+}
+
+.title{
+  color: aliceblue;
 }
 
 /* .App-logo {
